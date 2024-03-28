@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "sal1movcc@gmail.com",
+      "password": "$2a$10$uurcwN5Qkja2a3WY.wcmh.kJo5r4y39qcBkQRf04eFwCqVzLswVhi",
+      "username": "sal1movcc",
+      "name": "Abdumuhaymin",
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "name": "Product 1",
+      "id": "1"
+    }
+  ]
+}
